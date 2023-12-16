@@ -7,7 +7,7 @@ domain: ""
 
 # your web site url
 # for GitHub Pages, url: "https://hmahani.github.io"
-url: ""
+url: "https://hmahani.github.io"
 
 # path to this site
 # if your page is located at https://hmahani.github.io/blog, then set baseurl: "/blog"
