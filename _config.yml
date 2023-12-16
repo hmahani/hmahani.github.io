@@ -2,15 +2,15 @@
 # Global Configuration (https://jekyllrb.com/docs/configuration/options/)
 ###########################################################
 # if you want to force HTTPS, specify the domain without the http at the start
-# set domain: "your_github_user_name.github.io"
+# set domain: "hmahani.github.io"
 domain: ""
 
 # your web site url
-# for GitHub Pages, url: "https://your_github_user_name.github.io"
+# for GitHub Pages, url: "https://hmahani.github.io"
 url: ""
 
 # path to this site
-# if your page is located at https://your_github_user_name.github.io/blog, then set baseurl: "/blog"
+# if your page is located at https://hmahani.github.io/blog, then set baseurl: "/blog"
 baseurl: ""
 
 # please use TZ database name column on the list table
