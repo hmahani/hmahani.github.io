@@ -40,6 +40,5 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
 
-{{ website_info_text_second }}
+I am a postdoctoral researcher in observational astronomy at IPM, passionate about studying galaxy formation and evolution using stellar population synthesis techniques. I have a genuine eagerness to meet new people, learn from their perspectives, and continuously expand my knowledge. 
