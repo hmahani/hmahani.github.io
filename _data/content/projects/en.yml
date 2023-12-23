@@ -27,7 +27,7 @@ page_data:
     - type: id_sps
       project_name: "Present-day mass function of Milky Way"
       project_excerpt: "Delving into the Depths: Unraveling the Intricate History of the Milky Way"
-      img: "MW_SFH.jpg"
+      img: ":MW_SFH.jpg"
       img_title: "From Pinterest.de"
       date: "2018-10-24"
       post: |
