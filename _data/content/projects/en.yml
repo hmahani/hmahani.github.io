@@ -31,9 +31,9 @@ page_data:
       img_title: "From Pinterest.de"
       date: "2018-10-24"
       post: |
-        # Examples
+        # Was the Milky Way a chain galaxy? 
 
-        This is an example page to display markdown related styles for Mr. Green Jekyll Theme.
+        Using the IGIMF theory to constrain the thin-disc star formation history and mass
 
         ### Headings (centered)
         {:data-align="center"}
