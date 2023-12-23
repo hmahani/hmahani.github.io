@@ -35,14 +35,12 @@ page_data:
 
         Using the IGIMF theory to constrain the thin-disc star formation history and mass
 
-        ### SED 
+        ### The  environment-dependent initial mass function 
         {:data-align="center"}
 
-        The intricate spectral energy distributions (SEDs) offer a window into the fascinating world of stellar populations, particularly galaxies. 
-        Through SED analysis, we gain valuable insights into crucial characteristics including star formation history, initial mass function, 
-        total stellar mass on the main sequence, gas and dust content, and the metallicity of stellar systems. These properties play a pivotal 
-        role in unraveling the complex processes of galaxy formation and evolution. In essence, our understanding of stellar populations owes a 
-        great debt to the encoding and calculation of galaxy SEDs, enabling us to delve deeper into the mysteries of the cosmos.
+      The initial mass function (IMF) denotes the distribution of star masses at the onset of their formation within a star formation event. 
+      Although studies of the Local Group have indicated that a consistent IMF effectively describes straightforward stellar populations, 
+      such as globular clusters, it is expected that the IMF varies and becomes contingent on the environment within composite populations, such as galaxies.
 
         ***
 
