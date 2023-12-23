@@ -25,7 +25,7 @@ page_data:
   list:
     # example
     - type: id_sps
-      project_name: "Present-day mass function of Milky Way"
+      project_name: "Evolution of the Milky Way"
       project_excerpt: "Delving into the Depths: Unraveling the Intricate History of the Milky Way"
       img: ":MW_SFH.jpg"
       img_title: "From Pinterest.de"
@@ -35,20 +35,10 @@ page_data:
 
         Using the IGIMF theory to constrain the thin-disc star formation history and mass
 
-        ### Headings (centered)
+        ### SED (centered)
         {:data-align="center"}
 
-        # Heading 1
-
-        ## Heading 2
-
-        ### Heading 3
-
-        #### Heading 4
-
-        ##### Heading 5
-
-        ###### Heading 6
+        The intricate spectral energy distributions (SEDs) offer a window into the fascinating world of stellar populations, particularly galaxies. Through SED analysis, we gain valuable insights into crucial characteristics including star formation history, initial mass function, total stellar mass on the main sequence, gas and dust content, and the metallicity of stellar systems. These properties play a pivotal role in unraveling the complex processes of galaxy formation and evolution. In essence, our understanding of stellar populations owes a great debt to the encoding and calculation of galaxy SEDs, enabling us to delve deeper into the mysteries of the cosmos.
 
         ***
 
