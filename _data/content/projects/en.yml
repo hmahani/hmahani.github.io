@@ -38,9 +38,9 @@ page_data:
         ### The  environment-dependent initial mass function 
         {:data-align="center"}
 
-      The initial mass function (IMF) denotes the distribution of star masses at the onset of their formation within a star formation event. 
-      Although studies of the Local Group have indicated that a consistent IMF effectively describes straightforward stellar populations, 
-      such as globular clusters, it is expected that the IMF varies and becomes contingent on the environment within composite populations, such as galaxies.
+        The initial mass function (IMF) denotes the distribution of star masses at the onset of their formation within a star formation event. 
+        Although studies of the Local Group have indicated that a consistent IMF effectively describes straightforward stellar populations, 
+        such as globular clusters, it is expected that the IMF varies and becomes contingent on the environment within composite populations, such as galaxies.
 
         ***
 
