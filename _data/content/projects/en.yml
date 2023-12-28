@@ -46,7 +46,7 @@ page_data:
 
         ##### Results
         
-        In this study, we investigate the shape of the present-day mass function (PDMF) by employing both the canonical IMF and the IGIMF 
+        In this study, we investigate the shape of the present-day mass function (PDMF) by employing both the canonical ([Kroupa](https://astro.uni-bonn.de/~pavel/index.html)) IMF  and the IGIMF 
         theory with a time-dependent star formation rate (SFR). By examining the Galactic-field PDMF for stars with masses greater than 1 M&#8857; and determining 
         the normalization for low-mass stars, we can effectively constrain the star-formation history of the Milky Way and thereby estimate its current SFR. 
         Additionally, this analysis allows us to determine the total mass of stars in the Galactic thin disc.
@@ -82,14 +82,22 @@ page_data:
     - type: id_sps
       project_name: "Mass-to-light ratio of UCDs"
       project_excerpt: "Top-heavy IMF: A Riveting Proposal to Untangle the Mystery of Ultra-Compact Dwarf Galaxies' Anomalous Mass-to-Luminosity Ratio"
-      img: ":project2_thumb.jpg"
-      img_title: "img title2"
+      img: ":UCD.jpg"
+      img_title: "peakpx.com/en/hd-wallpaper-desktop-avecz"
       date: "2021-02-10"
       post: |
-        # Title
-        This is project content.
+        # Do ultracompact dwarf galaxies form monolithically or as merged star cluster complexes?
+        
+        We examine the physical characteristics of Ultra-Compact Dwarf Galaxies (UCDs) at various evolutionary phases, considering diverse initial stellar 
+        masses and adopting an Integrated Galactic Initial Mass Function (IMF) theory where the IMF can vary systematically based on metallicity and density. 
+        While a fixed, universal IMF fails to replicate the observed high Mass-to-Luminosity (M/L) ratios of UCDs, an empirically derived IMF that changes with 
+        density and metallicity aligns with observations. The incorporation of UCD-mass-dependent retention fractions for dark remnants further enhances this agreement. 
+        N-body simulations applied to young UCDs demonstrate that the same initial conditions explaining M/L ratios also capture the observed relationship between half-mass 
+        radii and present-day masses. These findings imply that UCDs with elevated M/L ratios may have formed monolithically with concentrated remnant-mass components, while 
+        those with lower M/L values could be the result of merged star cluster complexes. 
+        For more detailed information, please refer to the [paper](https://academic.oup.com/mnras/article-abstract/502/4/5185/6132256?redirectedFrom=fulltext).
 
-        ![Image](:project2_thumb.jpg)
+        ![Various models employing distinct initial mass functions are compared with observational data](:UCD_IMF.jpeg){:data-align="center"}
 
     # quote
     - type: id_quote
