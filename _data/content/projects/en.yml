@@ -33,7 +33,7 @@ page_data:
       post: |
         # Was the Milky Way a chain galaxy? 
 
-        Using the IGIMF theory to constrain the thin-disc star formation history and mass
+        Using the [IGIMF](https://github.com/hmahani/IGIMF) theory to constrain the thin-disc star formation history and mass
 
         ###### The  environment-dependent initial mass function 
         {:data-align="center"}
@@ -55,122 +55,28 @@ page_data:
         we conducted a series of calculations using different models. Through this approach, we can refine our understanding of the Milky Way's thin disc properties, 
         including its current SFR, mass-to-light ratio, and overall stellar mass. Based on our investigations, we draw the following main conclusions:
 
+        - Both the IGIMF and the canonical IMF effectively reproduce the Galactic PDMF. However, when constraining the SFR to decline by a factor of 2–7, 
+        the degeneracy breaks, and the IGIMF model outperforms in replicating the MW PDMF.
+        - Considering the canonical IMF and IGIMF, models constructed with &tau; = 2.8 Gyr provide the best fit, suggesting an exponentially declining Milky Way SFR. 
+        The similarity in &tau; values between IMF and IGIMF models arises from the MW being an intermediate-mass galaxy, where the IGIMF resembles the canonical IMF, 
+        while significant differences occur in dwarf galaxies with low SFRs or massive galaxies with high SFRs.
+        - Under the IGIMF theory, the Milky Way, having had a higher SFR approximately 10 Gyr ago, might have been populated by embedded clusters spanning masses up to 
+        a few million M&#8857, potentially giving it the appearance of a chain galaxy.
+
+
+      
+
         
 
-        **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        #### Texts
-
-        Quoted text `Hello world`
-
-        Bold text **Hello world**
-
-        Italic text _Hello world_
-
-        kbd text <kbd>Hello world</kbd>
-
-        #### Blockquote
-
-        > **William Shakespeare**, Let me not to the marriage of true minds
-        Admit impediments. Love is not love
-        Which alters when it alteration finds,
-        Or bends with the remover to remove.
-        O no, it is an ever-fixed mark
-        That looks on tempests and is never shaken;
-        It is the star to every wand'ring barque,
-        Whose worth's unknown, although his height be taken.
-        Love's not Time's fool, though rosy lips and cheeks
-        Within his bending sickle's compass come;
-        Love alters not with his brief hours and weeks,
-        But bears it out even to the edge of doom.
-        If this be error and upon me proved,
-        I never writ, nor no man ever loved.
-
-        ### Link
+        
 
         For access to the complete paper, I kindly invite you to follow [this](https://academic.oup.com/mnras/article/483/1/46/5144227) link.
 
-        ### Picture
+        
 
-        ![such a lovely place](:projects-heading.jpg)
+        ![such a lovely place](:projects-heading.jpg){:data-align="center"}
 
-        ### Picture (centered)
-
-        ![such a lovely place](:project1_thumb.jpg){:data-align="center"}
-
-        ### Lists
-
-        - Apple
-        - Banana
-        - Orange
-
-        1. Fruits
-            1. Apples
-                - Granny Smith
-                - Mutsu
-            1. Bananas
-                - Cavendish
-                - Red
-        1. Vegetables
-
-        ***
-
-        ### Tables
-
-        #### Small Table (centered)
-
-        | Fruits(not aligned) | Alignment (centered) | num (right align) |
-        | ------------------- | :------------------: | ----------------: |
-        | Apple               |       centered       |              9999 |
-        | Banana              |  centered long text  |               999 |
-        | Orange              |       centered       |                99 |
-        | Lemon               |       centered       |                 9 |
-        {:data-align="center"}
-
-        #### Wide Table (centered)
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-        | Banana | 111              |               111 | 222  | 333  | 444  |
-        | Orange | 11               |                11 | 22   | 33   | 44   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    |
-        {:data-align="center"}
-
-        #### Wider Table
-
-        scroll enabled when page is narrow
-
-        | Fruits | num (left align) | num (right align) | num  | num  | num  | num  | num  | num  |
-        | ------ | :--------------- | ----------------: | ---- | ---- | ---- | ---- | ---- | ---- |
-        | Apple  | 1111             |              1111 | 2222 | 3333 | 4444 | 5555 | 6666 | 7777 |
-        | Banana | 111              |               111 | 222  | 333  | 444  | 555  | 666  | 777  |
-        | Orange | 11               |                11 | 22   | 33   | 44   | 55   | 66   | 77   |
-        | Lemon  | 1                |                 1 | 2    | 3    | 4    | 5    | 6    | 7    |
-
-        ### Code
-
-        #### Quote
-
-        ```python
-        for i in range(5, 10):
-          print(i)
-        ```
+        
 
     # picture
     - type: id_picture
