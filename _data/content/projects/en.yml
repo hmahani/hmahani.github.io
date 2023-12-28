@@ -61,7 +61,7 @@ page_data:
         The similarity in &tau; values between IMF and IGIMF models arises from the MW being an intermediate-mass galaxy, where the IGIMF resembles the canonical IMF, 
         while significant differences occur in dwarf galaxies with low SFRs or massive galaxies with high SFRs.
         - Under the IGIMF theory, the Milky Way, having had a higher SFR approximately 10 Gyr ago, might have been populated by embedded clusters spanning masses up to 
-        a few million M&#8857, potentially giving it the appearance of a chain galaxy.
+        a few million M&#8857;, potentially giving it the appearance of a chain galaxy.
 
 
       
@@ -74,7 +74,7 @@ page_data:
 
         
 
-        ![such a lovely place](:projects-heading.jpg){:data-align="center"}
+        ![Permissible values for the initial mass and E-folding of the star formation rate](:MAss_Tau.jpeg){:data-align="center"}
 
         
 
