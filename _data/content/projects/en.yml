@@ -79,12 +79,12 @@ page_data:
         
 
     # picture
-    - type: id_picture
-      project_name: "Example Project"
-      project_excerpt: "Picture"
+    - type: id_sps
+      project_name: "Mass-to-light ratio of UCDs"
+      project_excerpt: "Top-heavy IMF: A Riveting Proposal to Untangle the Mystery of Ultra-Compact Dwarf Galaxies' Anomalous Mass-to-Luminosity Ratio"
       img: ":project2_thumb.jpg"
       img_title: "img title2"
-      date: "2021-04-23"
+      date: "2021-02-10"
       post: |
         # Title
         This is project content.
