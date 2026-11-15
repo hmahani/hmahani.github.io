@@ -165,6 +165,17 @@ projects:
   read_more_text: Read more
   read_less_text: Read less
 
+# for custom academic portfolio pages
+research:
+  title: Research
+  button_name: Research
+software:
+  title: Pipelines & Software
+  button_name: Software
+publications:
+  title: Publications
+  button_name: Publications
+
 # for privacy-policy layout
 privacy-policy:
   title: &privacy_policy_title Privacy policy

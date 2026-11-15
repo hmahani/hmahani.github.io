@@ -146,3 +146,57 @@ page_data:
       date: "2021-12-20"
       post: |
         Be the change that you wish to see in the world.
+
+    - type: id_quote
+      project_name: "SEDust: SED fitting of evolved stars"
+      project_excerpt: "A DUSTY-based pipeline to derive luminosities and mass-loss rates from AGB-star SEDs"
+      img: ":Andix.png"
+      img_title: "Illustrative evolved-star research project"
+      date: "2026-11-15"
+      post: |
+        SEDust is a reproducible pipeline for fitting multiwavelength spectral energy distributions of AGB stars with DUSTY model grids. It is designed to infer stellar luminosities, circumstellar optical depths, and mass-loss rates. The code is available on [GitHub](https://github.com/hmahani/SEDust), with a [Zenodo record](https://doi.org/10.5281/zenodo.22858441).
+
+    - type: id_quote
+      project_name: "MCM-SEDust: Bayesian dust inference"
+      project_excerpt: "An MCMC framework for posterior inference of circumstellar dust properties"
+      img: ":UCD.jpg"
+      img_title: "Research modelling"
+      date: "2026-11-15"
+      post: |
+        MCM-SEDust extends SED fitting with Bayesian inference using ensemble MCMC sampling. The framework is designed to quantify posterior uncertainties and support flexible assumptions about circumstellar dust composition. The associated manuscript is in preparation.
+
+    - type: id_phot
+      project_name: "Dust production in IC 10"
+      project_excerpt: "Multiwavelength analysis of long-period variables and dusty evolved stars in a star-forming dwarf galaxy"
+      img: ":Andix.png"
+      img_title: "Resolved stellar population research"
+      date: "2026-11-15"
+      post: |
+        This project combines optical monitoring and infrared photometry to investigate the evolved stellar population and dust-production budget of IC 10. The analysis brings together LPV candidates and multiwavelength data, with SED-based estimates of circumstellar mass loss.
+
+    - type: id_phot
+      project_name: "AGB populations in NGC 6822"
+      project_excerpt: "Comparing evolved-star classifications and integrated mass-loss estimates"
+      img: ":AndIX_CMD.jpg"
+      img_title: "Colour-magnitude diagram research"
+      date: "2026-11-15"
+      post: |
+        This work uses multiwavelength photometry and evolved-star catalogues to study the AGB population and its contribution to the dust and gas content of NGC 6822. The analysis compares mass-loss estimates from complementary approaches.
+
+    - type: id_phot
+      project_name: "LPVs in NGC 147 and NGC 185"
+      project_excerpt: "Time-domain study of evolved stellar populations in Local Group dwarf galaxies"
+      img: ":AndIX_CMD.jpg"
+      img_title: "Resolved stellar populations"
+      date: "2025-08-01"
+      post: |
+        A study of long-period variables in the dwarf galaxies NGC 147 and NGC 185, connecting optical variability and infrared properties to the mass loss of evolved stars. [Read the paper on arXiv](https://arxiv.org/abs/2508.05596).
+
+    - type: id_phot
+      project_name: "INO340 and optical time-domain astronomy"
+      project_excerpt: "Telescope and instrument performance for observations of variable stars"
+      img: ":MW_SFH.jpg"
+      img_title: "Observational astronomy"
+      date: "2026-11-15"
+      post: |
+        Research involving the 3.4-m Iranian National Observatory telescope (INO340), including characterisation of observing performance and its application to optical studies of resolved stellar populations.
