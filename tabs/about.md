@@ -4,7 +4,7 @@ layout: about
 lng_pair: id_about
 
 # image for page specific usage
-img: ":about.jpg"
+img: ":hamid-profile.png"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -45,7 +45,7 @@ img: ":about.jpg"
 
 ## Current position
 
-I am a Senior Postdoctoral Researcher in the School of Astronomy at the Institute for Research in Fundamental Sciences (IPM), Tehran. I joined the School of Astronomy in 2023 and work on observational and computational studies of evolved stellar populations.
+I am a Senior Postdoctoral Researcher in observational astronomy at the School of Astronomy, Institute for Research in Fundamental Sciences (IPM), Tehran. My research focuses on evolved stars, circumstellar dust, stellar mass loss, and resolved stellar populations in nearby galaxies, combining multiwavelength observations with computational modelling and statistical methods.
 
 ## Research background
 
